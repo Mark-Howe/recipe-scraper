@@ -33,7 +33,8 @@ class WwwFarmFlavorCom extends SchemaOrgMarkup
      */
     protected function extractCookTime(Crawler $crawler)
     {
-        return $this->extractString($crawler, '[itemprop="cookTime"] span');
+        $str = $this->extractString($crawler, '[itemprop="cookTime"] span');
+        return substr($str, 0, 5) == 'about' ? substr($str, 5) : $str;
     }
 
     /**
