@@ -29,8 +29,8 @@ return [
     ],
     'instructions' => [
         'Heat oven to 350 degrees.',
-        'Heat extra-virgin olive oil in an oven-safe saute pan over medium-high heat. Add the mushrooms and saute until softened, about 2 to 3 minutes. Turn off heat. Add the spinach and tomatoes, and cook for another 2 to 3 minutes.',
-        'In a separate bowl, whisk together the eggs, milk and ¼ cup cheese. Season with salt and pepper and 1 tablespoon chives.',
+        'Heat extra-virgin olive oil in an oven-safe saute pan over medium-high heat. Add the mushrooms and saute until softened, about 2 to 3 minutes. Add the spinach and tomatoes, and cook for another 2 to 3 minutes.',
+        'In a separate bowl, whisk together the eggs, milk and ¼ cup cheese. Season with salt, pepper and 1 tablespoon chives.',
         'Pour the egg mixture evenly into the skillet over the vegetables. Let sit, without stirring, until the edges begin to set, about 2 to 3 minutes. Then transfer the skillet to the oven and bake for about 15 to 20 minutes, or until golden brown. Sprinkle remaining cheese on top and garnish with remaining diced chives.',
     ],
     'name' => 'Herb and Veggie Frittata',

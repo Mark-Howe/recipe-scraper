@@ -3,7 +3,7 @@
 return [
     'author' => 'Mary Carter',
     'categories' => [
-        'Bacon',
+        'bacon',
         'cayenne pepper',
         'cheddar cheese',
         'cheese',
